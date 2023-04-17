@@ -1,4 +1,4 @@
-- Hello World, I’m Jonathan Randen a 16 year old programer based in Asker, Norway
+- Hello World, I’m Jonathan Randen a 16 year old programmer based in Asker, Norway
 -  I’m currently learning Front end develepoment (HTML,CSS and Javascript)
 You can reach me on mail jonathanranden@gmail.com
 
