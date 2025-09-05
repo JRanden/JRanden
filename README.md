@@ -1,5 +1,5 @@
-- Hello, I’m Jonathan Randen a 17 year old IT-Student based in Asker, Norway
--  I’m currently learning Front end develepoment (HTML,CSS and Javascript)
+- Hello, I’m Jonathan Randen a 19 year old IT-Apprentice
+-  Currently diving into Cybersecurity
 You can reach me on mail jonathanranden@gmail.com or my LinkedIn: https://www.linkedin.com/in/jonathan-randen-4453a726a/
 
 
